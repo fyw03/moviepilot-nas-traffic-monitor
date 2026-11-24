@@ -8,6 +8,7 @@
     "author": "workbuddy",
     "level": 1,
     "system_version": ">=3.0.0",
+    "release": false,
     "history": {
       "v1.0.0": "首次发布：视频内外网流量、下载器流量、网卡流量三类统计，详情页/仪表盘/API 展示。"
     }
