@@ -1,0 +1,15 @@
+{
+  "NasTrafficMonitor": {
+    "name": "NAS流量统计",
+    "description": "统计飞牛影视视频播放流量（区分内外网）、qBittorrent/Transmission 上传下载、整机网卡收发，含历史趋势与仪表盘。",
+    "labels": "统计,网络, NAS",
+    "version": "1.0.0",
+    "icon": "statistic.png",
+    "author": "workbuddy",
+    "level": 1,
+    "system_version": ">=3.0.0",
+    "history": {
+      "v1.0.0": "首次发布：视频内外网流量、下载器流量、网卡流量三类统计，详情页/仪表盘/API 展示。"
+    }
+  }
+}
